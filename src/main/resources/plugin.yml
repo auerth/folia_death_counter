@@ -1,0 +1,10 @@
+name: DeathCounter
+version: 1.0
+main: com.softwelop.deathcounter.DeathCounterMain  # Ändere dies zu deinem Paket + Klassennamen
+api-version: '1.21'
+
+# DIES IST DER WICHTIGSTE EINTRAG FÜR FOLIA
+folia-supported: true
+
+author: softwelop
+description: Zaehlt Tode in der TAB-Liste
