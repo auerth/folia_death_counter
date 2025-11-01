@@ -1,6 +1,7 @@
 package com.softwelop.deathcounter;
 
-import org.bukkit.ChatColor;
+import java.util.UUID;
+
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -9,8 +10,6 @@ import org.bukkit.event.player.PlayerJoinEvent;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
-
-import java.util.UUID;
 
 public class DeathListener implements Listener {
 
